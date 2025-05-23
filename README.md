@@ -6,5 +6,7 @@
 ### 📎 발표 자료 (PDF)
 [👉 Team1_PPT_v1.0.pdf (Google Drive)](https://drive.google.com/file/d/1C8kqUrv0Q4ozFvmhYwGEiTlnwv4SCDly/view?usp=share_link)
 
-### 📎 prototype (.pd)
-[👉 Team1_prototype.pdf (Figma)]((https://www.figma.com/proto/sGrcqttdRlfko42ij3JQMw/-%EC%A4%91%EA%B8%89%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8--1%ED%8C%80-%EC%9E%91%EC%97%85-%EA%B3%B5%EA%B0%84?node-id=1247-731&t=UFZaBjXXprm8d3IN-1)k)
+### 🎨 Figma 프로토타입
+
+👉 [왈라 UX 개선 프로토타입 보기 (Figma)](https://www.figma.com/proto/sGrcqttdRlfko42ij3JQMw/-%EC%A4%91%EA%B8%89%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8--1%ED%8C%80-%EC%9E%91%EC%97%85-%EA%B3%B5%EA%B0%84?page-id=1247%3A731&node-id=1463-5136&p=f&viewport=-806%2C41%2C0.05&t=oefCRlPTcOTbVSuy-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1463%3A5136)
+
